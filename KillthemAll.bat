@@ -20,3 +20,5 @@ taskkill /f /t /im VsHub*
 taskkill /f /t /im vsjitdebugger.exe
 taskkill /f /t /im vsls-agent.exe
 taskkill /f /t /im w3wp.exe
+taskkill /f /t /im PerfWatson.exe
+taskkill /f /t /im PerfWatson2.exe
