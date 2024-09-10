@@ -5,6 +5,7 @@ REM !!! DO NOT RUN ON PRODUCTION !!!
 start taskkill /f /t /im adb.exe
 start taskkill /f /t /im devenv.exe
 start taskkill /f /t /im dotnet.exe
+start taskkill /f /t /im iis*
 start taskkill /f /t /im iisexpress.exe
 start taskkill /f /t /im JetBrains*
 start taskkill /f /t /im Microsoft.ServiceHub.Controller.exe
